@@ -2,6 +2,6 @@
 
 - - -
 
-Snapshots, 11AM ⟳ 11PM. :video_camera:
+Snapshots, 11AM ⟳ 11PM.
 
-Project inspired by [Jefferey Scudder](http://ss.rey.sc/)
+Project inspired by [Jefferey Scudder](http://ss.rey.sc/) :bookmark:
