@@ -12,4 +12,4 @@ Project inspired by [Jefferey Scudder](http://ss.rey.sc/) :bookmark:
 
 ![Power Setup and mystery Spark board](rpi-ss2.JPG)
 
-![Case and Camera](rpi-ss1=3.JPG)
+![Case and Camera](rpi-ss13.JPG)
